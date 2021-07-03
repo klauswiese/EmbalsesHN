@@ -75,8 +75,9 @@ system(paste0('gdal_polygonize.py ',
               ' \"./resultados/"', NombreVector, ' \ -b  1 -f "GPKG" DN'))
 
 #Graficar resultado
-Econce <- "resultados/EmbalseConcepcion.gpkg" %>% #"SHP/Olancho.shp"
-  st_read(quiet = TRUE) %>% 
+Econce <- dplyr::filter(st_read("resultados/EmbalseConcepcion.gpkg", 
+                                quiet = TRUE), 
+                        DN == 1) %>%
   sf_as_ee()
 
 #Visualizar datos
@@ -91,7 +92,10 @@ Map$centerObject(extAOI,zoom=14)
   ) +
  Map$addLayer(
      eeObject = Econce,
-     name = "Embalse La Concepción"
+     name = "Embalse La Concepción",
+     visParams = list(
+       color = "blue"
+     )
   )  
   
 sessionInfo()
