@@ -1,5 +1,6 @@
 # EmbalsesHN
-Delimitación de cuerpos de agua, primera prueba para la delimitación de los embalses de Honduras
+
+Delimitación de cuerpos de agua, primera prueba para la delimitación de los embalses de Honduras. La delimitación usa el NDWI y calcular el umbral del índice para separar agua de suelo o vegetación usando el algoritmo de [OTSU](https://en.wikipedia.org/wiki/Otsu%27s_method).
 
 # Embalse La Concepción Tegucigalpa, Honduras
 
