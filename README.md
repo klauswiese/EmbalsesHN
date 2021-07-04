@@ -14,6 +14,17 @@ Todo esta escrito en R, el acceso a la colección de imágenes Sentinel-2 es usa
 
 ![](imagenes/dos.png?raw=true)
 
+
+# Embalse Yure
+
+## Imagen de Junio 25 2021 composición B8/B4/B3
+
+![](imagenes/Yure1.png?raw=true)
+
+## Imagen de febrero 2021 composición B8/B4/B3 con delimitación superpuesta
+
+![](imagenes/Yure2.png?raw=true)
+
 ***
 
 # Cuadro Resumen de Embalses
