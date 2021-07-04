@@ -14,6 +14,9 @@ Todo esta escrito en R, el acceso a la colección de imágenes Sentinel-2 es usa
 
 ![](imagenes/dos.png?raw=true)
 
-| Id | Embalse | Fuente de Datos | Ubicación | Área Aproximada
+
+# Cuadro Resumen de Embalses
+
+| Id | Embalse | Fuente de Datos | Ubicación (4326) | Área Aproximada |
 | :---: | :---: | :--- | :--- | :---|
-| 1 | La Concepción | Sentinel-2 2021-02-10 |  | |
+| 1 | La Concepción | Sentinel-2 2021-02-10 | -87.27619, 13.99249  | 172.1191 ha|
