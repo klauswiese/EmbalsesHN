@@ -6,22 +6,22 @@ Todo esta escrito en R, el acceso a la colección de imágenes Sentinel-2 es usa
 
 # Embalse La Concepción Tegucigalpa, Honduras
 
-## Imagen de febrero 2021 composición B8/B4/B3
+## Febrero 10 de 2021 composición B8/B4/B3
 
 ![](imagenes/uno.png?raw=true)
 
-## Imagen de febrero 2021 composición B8/B4/B3 con delimitación superpuesta
+## Febrero 10 de 2021 composición B8/B4/B3 con delimitación superpuesta
 
 ![](imagenes/dos.png?raw=true)
 
 
 # Embalse Yure
 
-## Imagen de Junio 25 2021 composición B8/B4/B3
+## Junio 25 2021 composición B8/B4/B3
 
 ![](imagenes/Yure1.png?raw=true)
 
-## Imagen de febrero 2021 composición B8/B4/B3 con delimitación superpuesta
+## Junio 25 2021 composición B8/B4/B3 con delimitación superpuesta
 
 ![](imagenes/Yure2.png?raw=true)
 
