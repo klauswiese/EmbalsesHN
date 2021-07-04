@@ -31,8 +31,8 @@ Todo esta escrito en R, el acceso a la colección de imágenes Sentinel-2 es usa
 
 | Id | Embalse | Fuente de Datos | Ubicación (EPSG:4326) | Área Aproximada |
 | :---: | :---: | :--- | :--- | :---|
-| 1 | La Concepción | Sentinel-2 2021-02-10 | -87.27619, 13.99249  | 172.1191 ha|
-| 2 | Yure | Sentinel-2 2021-06-25 | -87.91921, 14.87583  | 29.66275 ha|
-| 3 | El Cajón | Sentinel-2 2021-06-25 | -87.7388, 15.0124  |  ha|
+| 1 | La Concepción | Sentinel-2 del 2021-02-10 | -87.27619, 13.99249  | 172.1191 ha|
+| 2 | Yure | Sentinel-2 del 2021-06-25 | -87.91921, 14.87583  | 29.66275 ha|
+| 3 | El Cajón | Sentinel-2 del 2021-06-25 | -87.7388, 15.0124  |  ha|
 
 ***
