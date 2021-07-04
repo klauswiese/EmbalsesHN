@@ -16,4 +16,4 @@ Todo esta escrito en R, el acceso a la colección de imágenes Sentinel-2 es usa
 
 | Id | Embalse | Fuente de Datos | Ubicación | Área Aproximada
 | :---: | :---: | :--- | :--- | :---|
-| 1 | `2020-12-29` | Bring your own data from 2020! | | |
+| 1 | La Concepción | Sentinel-2 2021-02-10 |  | |
