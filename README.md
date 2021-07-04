@@ -13,3 +13,7 @@ Todo esta escrito en R, el acceso a la colección de imágenes Sentinel-2 es usa
 ## Imagen de febrero 2021 composición B8/B4/B3 con delimitación superpuesta
 
 ![](imagenes/dos.png?raw=true)
+
+| Id | Embalse | Fuente de Datos | Ubicación | Área Aproximada
+| :---: | :---: | :--- | :--- | :---|
+| 1 | `2020-12-29` | Bring your own data from 2020! | | |
