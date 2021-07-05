@@ -23,6 +23,12 @@ Todo esta escrito en R, el acceso a la colección de imágenes Sentinel-2 es usa
 
 ![](imagenes/Cajon2.png?raw=true)
 
+# Nacaome
+
+## Mayo 30 2021 composición B8/B4/B3 con delimitación superpuesta
+
+![](imagenes/Nacaome2.png?raw=true)
+
 ***
 
 # Cuadro Resumen de Embalses
