@@ -29,6 +29,12 @@ Todo esta escrito en R, el acceso a la colección de imágenes Sentinel-2 es usa
 
 ![](imagenes/Nacaome2.png?raw=true)
 
+# El Coyolar
+
+## Febrero 10 2021 composición B8/B4/B3 con delimitación superpuesta
+
+![](imagenes/Coyolar2.png?raw=true)
+
 ***
 
 # Cuadro Resumen de Embalses
@@ -42,7 +48,7 @@ Todo esta escrito en R, el acceso a la colección de imágenes Sentinel-2 es usa
 | 5 | Los Laureles |  |   |  ha|
 | 6 | Patuca III |  |   |  ha|
 | 7 | Miraflores |  |   |  ha|
-| 8 | El Coyolar |Sentinel-2 del 2021-03-22-02-10 | -87.51056, 14.32268   |  ha|
+| 8 | El Coyolar |Sentinel-2 del 2021-03-22-02-10 | -87.51056, 14.32268   | 70.60199 ha|
 | 9 | Nacaome |Sentinel-2 del 2021-03-22 | -87.36311, 13.69426  | 141.0408 ha|
 
 
