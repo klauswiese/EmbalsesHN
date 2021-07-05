@@ -37,7 +37,7 @@ Todo esta escrito en R, el acceso a la colección de imágenes Sentinel-2 es usa
 | 6 | Patuca III |  |   |  ha|
 | 7 | Miraflores |  |   |  ha|
 | 8 | El Coyolar |  |   |  ha|
-| 9 | Nacaome |  |   |  ha|
+| 9 | Nacaome |Sentinel-2 del 2021-05-30 | -87.36311, 13.69426  |  ha|
 
 
 
