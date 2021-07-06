@@ -8,32 +8,41 @@ Todo esta escrito en R, el acceso a la colección de imágenes Sentinel-2 es usa
 
 ## Junio 25 2021 composición B8/B4/B3 con delimitación superpuesta
 
+<p align="center">
 <img src="imagenes/Cajon2.png" height="300"/>
+</p>
 
 # Embalse La Concepción Tegucigalpa, Honduras
 
 ## Febrero 10 de 2021 composición B8/B4/B3 con delimitación superpuesta
 
+<p align="center">
 <img src="imagenes/dos.png" height="300"/>
-
+</p>
 
 # Nacaome
 
 ## Marzo 22 2021 composición B8/B4/B3 con delimitación superpuesta
 
+<p align="center">
 <img src="imagenes/Nacaome2.png" height="300"/>
+</p>
 
 # El Coyolar
 
 ## Febrero 10 2021 composición B8/B4/B3 con delimitación superpuesta
 
+<p align="center">
 <img src="imagenes/Coyolar2.png" height="300"/>
+</p>
 
 # Embalse Yure
 
 ## Junio 25 2021 composición B8/B4/B3 con delimitación superpuesta
 
+<p align="center">
 <img src="imagenes/Yure2.png" height="300"/>
+</p>
 
 ***
 
