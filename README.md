@@ -8,7 +8,7 @@ Todo esta escrito en R, el acceso a la colección de imágenes Sentinel-2 es usa
 
 ## Junio 25 2021 composición B8/B4/B3 con delimitación superpuesta
 
-![](imagenes/Cajon2.png?raw=true)
+<img src="imagenes/Cajon2.png" height="300"/>
 
 # Embalse La Concepción Tegucigalpa, Honduras
 
