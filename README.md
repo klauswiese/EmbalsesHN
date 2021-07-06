@@ -14,25 +14,26 @@ Todo esta escrito en R, el acceso a la colección de imágenes Sentinel-2 es usa
 
 ## Febrero 10 de 2021 composición B8/B4/B3 con delimitación superpuesta
 
-![](imagenes/dos.png?raw=true)
+<img src="imagenes/dos.png" height="300"/>
+
 
 # Nacaome
 
 ## Marzo 22 2021 composición B8/B4/B3 con delimitación superpuesta
 
-![](imagenes/Nacaome2.png?raw=true)
+<img src="imagenes/Nacaome2.png" height="300"/>
 
 # El Coyolar
 
 ## Febrero 10 2021 composición B8/B4/B3 con delimitación superpuesta
 
-![](imagenes/Coyolar2.png?raw=true)
+<img src="imagenes/Coyolar2.png" height="300"/>
 
 # Embalse Yure
 
 ## Junio 25 2021 composición B8/B4/B3 con delimitación superpuesta
 
-![](imagenes/Yure2.png?raw=true)
+<img src="imagenes/Yure2.png" height="300"/>
 
 ***
 
