@@ -59,3 +59,7 @@ Todo esta escrito en R, el acceso a la colección de imágenes [Sentinel-2](http
 | 7 | `Patuca III` |  |   |  |
 
 ***
+
+# Siguientes Pasos
+
+***
