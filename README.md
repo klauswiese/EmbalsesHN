@@ -45,7 +45,7 @@ Todo esta escrito en R, el acceso a la colección de imágenes [Sentinel-2](http
 </p>
 
 
-# Embalse Yure
+# Yure
 
 ## Junio 25 2021 composición B8/B4/B3 con delimitación superpuesta
 
