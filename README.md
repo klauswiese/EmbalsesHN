@@ -6,7 +6,7 @@ Todo esta escrito en R, el acceso a la colección de imágenes [Sentinel-2](http
 
 [`El Cajón`](#el-cajón) \| [`La Concepción`](#la-concepción) \|
 [`Nacaome`](#Nacaome) \| [`El Coyolar`](#el-coolar) \| [`Los Laureles`](#los-laureles)
-\| [`Yure`](#Yure) \| [`Patuca III`](#patuca-iii)
+\| [`Yure`](#Yure) \| [`Patuca III`](#patuca-iii) \| [`Cuadro Resumen`](#cuadro-resumen-de-embalses)
 # El Cajón
 
 ## Junio 25 2021 composición B8/B4/B3 con delimitación superpuesta
