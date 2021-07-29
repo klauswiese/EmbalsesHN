@@ -4,10 +4,10 @@ Primera prueba para la delimitación de los embalses de Honduras. La delimitaci�
 
 Todo esta escrito en R, el acceso a la colección de imágenes [Sentinel-2](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) es usando [GEE](https://www.sciencedirect.com/science/article/pii/S0034425717302900) a través del increible paquete [RGEE](https://csaybar.github.io/rgee-examples/) de [Cesar Aybar](https://csaybar.github.io/), [Qiusheng Wu](https://geography.utk.edu/about-us/faculty/dr-qiusheng-wu/), [Lesly Bautista](https://orcid.org/0000-0003-3523-8687), [Roy Yali](https://ryali93.github.io/en/) y [Antony Barja](https://github.com/ambarja), el artículo que describe el paquete puede ser accesado [aquí](https://joss.theoj.org/papers/10.21105/joss.02272). 
 
-[`El Cajón`](#El_Cajón) \| [`La Concepción`](#{La Concepción}) \|
+[`El Cajón`](#El_Cajón) \| [`La Concepción`](#La_Concepción) \|
 [`Usage`](#Usage) \| [`Credits`](#Credits)
 
-# El_Cajón
+# El Cajón
 
 ## Junio 25 2021 composición B8/B4/B3 con delimitación superpuesta
 
