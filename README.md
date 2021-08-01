@@ -1,3 +1,5 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=klauswiese.klauswiese/pnlt) 
+
 # EmbalsesHN
 
 Primera prueba para la delimitación de los embalses de Honduras. La delimitación usa el [NDWI](https://en.wikipedia.org/wiki/Normalized_difference_water_index) y calcula el umbral del índice para separar agua de suelo o vegetación usando el algoritmo de [OTSU](https://en.wikipedia.org/wiki/Otsu%27s_method).
