@@ -1,3 +1,6 @@
+[![Project Status](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/klauswiese/EmbalsesHN/commits)
 ![](https://visitor-badge.laobi.icu/badge?page_id=klauswiese.klauswiese/EmbalsesHN) 
 
 # EmbalsesHN
