@@ -9,7 +9,7 @@ library(raster)
 source("Funciones.R")
 
 # 0. Inicializar conexión con GEE ----
-ee_Initialize(email = 'klauswiesengine@gmail.com', drive = TRUE)
+ee_Initialize(email = 'yourmail@gmail.com', drive = TRUE)
 
 # 1. cargar datos ----
 # 1.1 área de interés
