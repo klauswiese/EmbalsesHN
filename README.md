@@ -20,6 +20,14 @@ Todo esta escrito en R, el acceso a la colección de imágenes [Sentinel-2](http
 <img src="imagenes/Cajon2.png" height="300"/>
 </p>
 
+# Patuca III
+
+## Compuesto temporal 2021 composición B8/B4/B3 con delimitación superpuesta
+
+<p align="center">
+<img src="imagenes/PatucaIII.png" height="300"/>
+</p>
+
 # La Concepción
 
 ## Febrero 10 de 2021 composición B8/B4/B3 con delimitación superpuesta
@@ -58,14 +66,6 @@ Todo esta escrito en R, el acceso a la colección de imágenes [Sentinel-2](http
 
 <p align="center">
 <img src="imagenes/Yure2.png" height="300"/>
-</p>
-
-# Patuca III
-
-## Compuesto temporal 2021 composición B8/B4/B3 con delimitación superpuesta
-
-<p align="center">
-<img src="imagenes/PatucaIII.png" height="300"/>
 </p>
 
 ***
