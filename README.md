@@ -62,6 +62,12 @@ Todo esta escrito en R, el acceso a la colección de imágenes [Sentinel-2](http
 
 # Patuca III
 
+## Compuesto temporal 2021 composición B8/B4/B3 con delimitación superpuesta
+
+<p align="center">
+<img src="imagenes/PatucaIII.png" height="300"/>
+</p>
+
 ***
 
 # Cuadro Resumen de Embalses
@@ -69,12 +75,12 @@ Todo esta escrito en R, el acceso a la colección de imágenes [Sentinel-2](http
 | # | Embalse | Fuente de Datos | Ubicación (EPSG:4326) | Área Aproximada |
 | :---: | :--- | :--- | :--- | :---|
 | 1 | `El Cajón` | Sentinel-2 del 2021-06-25 | -87.7388, 15.0124  |  8,585.686 ha|
-| 2 | `La Concepción` | Sentinel-2 del 2021-02-10 | -87.27619, 13.99249  | 172.1191 ha|
-| 3 | `Nacaome` |Sentinel-2 del 2021-03-22 | -87.36311, 13.69426  | 141.0408 ha|
-| 4 | `El Coyolar` |Sentinel-2 del 2021-02-10 | -87.51056, 14.32268   | 70.60199 ha|
-| 5 | `Los Laureles` | Sentinel-2 del 2021-03-07  | -87.24533, 14.06502  | 42.82707 ha  |
-| 6 | `Yure` | Sentinel-2 del 2021-06-25 | -87.91921, 14.87583  | 29.53971 ha|
-| 7 | `Patuca III` |  |   |  |
+| 2 | `Patuca III` | Compuesto Temporal 2021 | -85.96546, 14.44458  | 2,353.581 ha |
+| 3 | `La Concepción` | Sentinel-2 del 2021-02-10 | -87.27619, 13.99249  | 172.1191 ha|
+| 4 | `Nacaome` |Sentinel-2 del 2021-03-22 | -87.36311, 13.69426  | 141.0408 ha|
+| 5 | `El Coyolar` |Sentinel-2 del 2021-02-10 | -87.51056, 14.32268   | 70.60199 ha|
+| 6 | `Los Laureles` | Sentinel-2 del 2021-03-07  | -87.24533, 14.06502  | 42.82707 ha  |
+| 7 | `Yure` | Sentinel-2 del 2021-06-25 | -87.91921, 14.87583  | 29.53971 ha|
 
 ***
 
