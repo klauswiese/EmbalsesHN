@@ -83,7 +83,3 @@ Todo esta escrito en R, el acceso a la colección de imágenes [Sentinel-2](http
 | 7 | `Yure` | Sentinel-2 del 2021-06-25 | -87.91921, 14.87583  | 29.53971 ha|
 
 ***
-
-# Siguientes Pasos
-
-***
