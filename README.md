@@ -69,7 +69,6 @@ Todo esta escrito en R, el acceso a la colección de imágenes [Sentinel-2](http
 </p>
 
 ***
-
 # Cuadro Resumen de Embalses
 
 | # | Embalse | Fuente de Datos | Ubicación (EPSG:4326) | Área Aproximada |
